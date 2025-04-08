@@ -1,4 +1,4 @@
-This is just a simple tool for automotization.
+This is just a simple tool for automatization.
 I am not sybil and I don't support multi-accounting.
 I am honest person and I just want to code, develop and help other people.
 Use this script on your own risk.
